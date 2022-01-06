@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Web3 from 'web3'
 import './App.css';
 import MemoryToken from '../abis/MemoryToken.json'
-import brain from '../brain.png'
+// import brain from '../brain.png'
 
 const CARD_ARRAY = [
   {
@@ -186,7 +186,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-          <img src={brain} width="30" height="30" className="d-inline-block align-top" alt="" />
+          {/* <img src={brain} width="30" height="30" className="d-inline-block align-top" alt="" /> */}
           &nbsp; Memory Tokens
           </a>
           <ul className="navbar-nav px-3">
