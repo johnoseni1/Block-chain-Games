@@ -1,7 +1,7 @@
 {
   "name": "blockchain-game",
   "version": "0.1.0",
-  "description": "Blockchain memory game",
+  "description": "Blockchain game",
   "author": "john Oseni",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
